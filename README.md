@@ -1,1 +1,1 @@
-# electricity_consumption_prediction
+# Electricity Consumption Prediction
