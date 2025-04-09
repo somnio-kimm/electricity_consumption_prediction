@@ -1,12 +1,12 @@
-# ⚡ Electricity Consumption Prediction
+# ⚡ Energy Consumption Prediction
 
-A machine learning pipeline to predict electricity consumption using various regression models, stacked ensembles, and feature importance analysis. The pipeline includes extensive preprocessing, hyperparameter tuning, model evaluation, and interpretability using SHAP values.
+A machine learning pipeline to predict energy consumption using various regression models, stacked ensembles, and feature importance analysis. The pipeline includes extensive preprocessing, hyperparameter tuning, model evaluation, and interpretability.
 
 ---
 
 ## 🔍 Overview
 
-This project builds and evaluates a set of regression models to forecast electricity usage, leveraging different sets of features. It also applies stacking techniques to improve predictive performance, and evaluates feature importance using SHAP.
+This project builds and evaluates a set of regression models to forecast energy usage, leveraging different sets of features. It also applies stacking techniques to improve predictive performance, and evaluates feature importance.
 
 ---
 
@@ -16,7 +16,7 @@ This project builds and evaluates a set of regression models to forecast electri
 ├── energy_consumption_prediction.ipynb       # Main notebook
 ├── data_extraction.ipynb                     # Notebook for merging datasets 
 ├── data/                                     # Raw and processed datasets
-├── doc/									  # Supporting documents
+├── doc/									  # Supporting documents and presentations
 ├── test/									  # Folder for codes under testing
 └── README.md
 ```
