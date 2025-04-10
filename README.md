@@ -52,6 +52,6 @@ This project builds and evaluates a set of regression models to forecast energy 
 
 - [Jeong Gukho](https://github.com/GUKHOJeong/)
 - [Jeong Woogun]()
-- [Kim Hyungeun]()
+- [Kim Hyungeun](https://github.com/hyungeunkk)
 - [Kim Juneon]()
 - [Kimm Soo Min](https://github.com/somnio-kimm)
