@@ -16,8 +16,8 @@ This project builds and evaluates a set of regression models to forecast energy 
 ├── energy_consumption_prediction.ipynb       # Main notebook
 ├── data_extraction.ipynb                     # Notebook for merging datasets 
 ├── data/                                     # Raw and processed datasets
-├── doc/									  # Supporting documents and presentations
-├── test/									  # Folder for codes under testing
+├── doc/                                      # Supporting documents and presentations
+├── test/                                     # Folder for codes under testing
 └── README.md
 ```
 
@@ -47,3 +47,11 @@ This project builds and evaluates a set of regression models to forecast energy 
 - Time Series Analysis
 
 ---
+
+## 👥 Contributors
+
+- [Jeong Gukho](https://github.com/GUKHOJeong/)
+- [Jeong Woogun]()
+- [Kim Hyungeun]()
+- [Kim Juneon]()
+- [Kimm Soo Min](https://github.com/somnio-kimm)
