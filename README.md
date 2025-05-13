@@ -1,4 +1,4 @@
-# ⚡ Energy Consumption Prediction
+# ⚡ Energy Consumption Analysis
 
 A machine learning pipeline to predict energy consumption using various regression models, stacked ensembles, and feature importance analysis. The pipeline includes extensive preprocessing, hyperparameter tuning, model evaluation, and interpretability.
 
@@ -6,18 +6,20 @@ A machine learning pipeline to predict energy consumption using various regressi
 
 ## 🔍 Overview
 
-This project builds and evaluates a set of regression models to forecast energy usage, leveraging different sets of features. It also applies stacking techniques to improve predictive performance, and evaluates feature importance.
+This project builds and evaluates a set of regression models to forecast energy usage, leveraging different sets of features. It also applies stacking techniques to improve predictive performance and evaluates feature importance.
+
+🗓️ Project Period: March 31, 2025 – April 10, 2025
 
 ---
 
 ## 📂 Project Structure
 ```
 .
-├── energy_consumption_prediction.ipynb       # Main notebook
-├── data_extraction.ipynb                     # Notebook for merging datasets 
-├── data/                                     # Raw and processed datasets
-├── doc/                                      # Supporting documents and presentations
-├── test/                                     # Folder for codes under testing
+├── energy_consumption_prediction.ipynb  # Main notebook
+├── data_extraction.ipynb                # Notebook for merging datasets 
+├── data/                                # Raw and processed datasets
+├── docs/                                # Supporting documents and presentations
+├── test/                                # Folder for codes under testing
 └── README.md
 ```
 
@@ -43,8 +45,8 @@ This project builds and evaluates a set of regression models to forecast energy 
 - AdaBoost
 - XGBoost
 - Stacking Regressor (custom ensemble)
-- Neural Network
-- Time Series Analysis
+- Simple Neural Network Model
+- SARIMAX
 
 ---
 
