@@ -9,6 +9,7 @@ A machine learning pipeline to predict energy consumption using various regressi
 This project builds and evaluates a set of regression models to forecast energy usage, leveraging different sets of features. It also applies stacking techniques to improve predictive performance and evaluates feature importance.
 
 🗓️ Project Period: March 31, 2025 – April 10, 2025
+
 📊 Data Source: 
 - Korea Electric Power Corporation: https://bigdata.kepco.co.kr/cmsmain.do?scode=S01&pcode=000171&redirect=Y
 - Korea Meteorological Administration: https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36
