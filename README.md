@@ -37,11 +37,9 @@ This project builds and evaluates a set of regression models to forecast energy 
 - Stacking ensemble using the best-performing models
 - Performance metrics: MAE, RMSE, R², Adjusted R²
 - Feature importance analysis
-
 ---
 
 ## 🧪 Models Used
-
 - Linear Regression
 - ElasticNet
 - Support Vector Regression (SVR)
@@ -52,7 +50,6 @@ This project builds and evaluates a set of regression models to forecast energy 
 - Stacking Regressor (custom ensemble)
 - Simple Neural Network Model
 - SARIMAX
-
 ---
 
 ## 👥 Contributors
@@ -62,3 +59,4 @@ This project builds and evaluates a set of regression models to forecast energy 
 - [Kim Hyungeun](https://github.com/hyungeunkk)
 - [Kim Juneon]()
 - [Kimm Soo Min](https://github.com/somnio-kimm)
+---
